@@ -1,5 +1,5 @@
 <br>
-<img src="https://i.postimg.cc/Fsb97HB0/Banner.png"   /><br>
+<img src="https://i.postimg.cc/28GB1G56/Banner.png"   /><br>
 <h1 align="center">Hi 👋, I'm Antonio Alonso</h1>
 <h3 align="center">A passionate backend developer from México</h3>
 
